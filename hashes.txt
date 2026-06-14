@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Historias escritas con lágrimas
+
+This log tracks the cryptographic history and versioning for the song **Historias escritas con lágrimas** (historias-escritas-con-lagrimas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:05:27.667391 | `v1` | `4b5ad4737a9e54fbd2c8610d5af54d3eb3573be4636183d205e1cd26e0ea5d09` | `c7b06aba79bca83741c10844486acdc9a27cc2246dd3f28651069956c0b0d9d9` | `2026-06-14_historias-escritas-con-lagrimas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
